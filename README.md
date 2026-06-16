@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Manya 👋
 
-<!--
-**manya-mrae/manya-mrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Technology student at Linnaeus University in Sweden, entering my third year.
 
-Here are some ideas to get you started:
+## Currently working on
+- Backend development
+- Java and Python
+- Computer networks and security
+- Machine learning
+- Software testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Java
+- Python
+- SQL
+- Git
+- Linux
+- Docker
+- Scikit-learn
+- Wireshark
+
+## Featured projects
+Projects will be added here as I develop and improve them.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/manya-mirzaei
+- Email: manya.mrae@gmail.com
