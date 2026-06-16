@@ -20,7 +20,7 @@ I'm a Software Technology student at Linnaeus University in Sweden, entering my 
 - Wireshark
 
 ## Featured projects
-Projects will be added here as I develop and improve them.
+I’m currently preparing and documenting selected university and personal projects for publication.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/manya-mirzaei
